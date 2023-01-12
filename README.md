@@ -1,6 +1,11 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mitani1993)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/mitani1993">
+  <img align="center" height="170px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mitani1993&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/mitani1993">
+  <img align="center" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mitani1993&layout=compact" />
+</a>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mitani1993&theme=vue)
 
@@ -18,3 +23,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
